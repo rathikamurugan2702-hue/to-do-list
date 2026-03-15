@@ -17,6 +17,3 @@ A functional and interactive **To-Do List** web application. This project helps 
 1. Download or clone this repository.
 2. Open the `index.html` file in any web browser.
 3. Start adding your tasks!
-
----
-*Created as part of my Web Development portfolio.*
